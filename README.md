@@ -1,2 +1,2 @@
-# CSharp-28.Proje
+# C#-28.Proje
 Soyutlama (Abstraction)2
